@@ -1,4 +1,4 @@
-# 📊 Financial Research Assistant
+# Trust-Aware Financial Research Assistant
 
 A local-first AI system for querying financial documents in natural language — with a built-in Trust Layer that scores, validates, and routes every answer before surfacing it to the user.
 
