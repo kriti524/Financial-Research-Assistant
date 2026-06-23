@@ -4,6 +4,8 @@ A local-first AI system for querying financial documents in natural language —
 
 Financial professionals, students, and analysts spend hours reading through hundreds of pages of annual reports just to find one revenue figure or compare two companies' margins. This project was built to change that — to make financial research faster, more reliable, and accessible without a Bloomberg terminal or expensive data subscription. What makes it different from a generic "chat with PDFs" tool is accountability: every answer carries a confidence score, a source citation, and a human review flag when evidence is thin. That matters in finance, where acting on a wrong number has real consequences. The target users are equity analysts, finance students, small advisory firms, and independent investors who need document-grounded answers they can actually trust.
 
+Project Report : https://docs.google.com/document/d/1Ci3jx8GMsnO-9rxQ6g4pmJqFHeisxRKl/edit?usp=sharing&ouid=100364438258917736018&rtpof=true&sd=true
+
 ---
 
 ## What It Does
